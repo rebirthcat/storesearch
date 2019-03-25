@@ -13,12 +13,13 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
-package riot
+package storesearch
 
 import (
-	"github.com/rebirthcat/riot/distscore"
-	"github.com/rebirthcat/riot/geofilter"
-	"github.com/rebirthcat/riot/types"
+	"storesearch/distscore"
+	"storesearch/geofilter"
+	"storesearch/types"
+
 )
 
 type indexerAddDocReq struct {

@@ -17,7 +17,7 @@
 
 Package riot is riot engine
 */
-package riot
+package storesearch
 
 import (
 	"container/heap"
@@ -30,8 +30,8 @@ import (
 
 	"github.com/go-ego/gse"
 	"github.com/go-ego/murmur"
-	"github.com/rebirthcat/riot/core"
-	"github.com/rebirthcat/riot/types"
+	"storesearch/core"
+	"storesearch/types"
 )
 
 const (

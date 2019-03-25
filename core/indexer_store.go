@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/rebirthcat/riot/store"
+	"storesearch/store"
 	"log"
 	"sync"
 )
