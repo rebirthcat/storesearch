@@ -1,0 +1,5 @@
+struct KeywordIndices{
+	docIds      []string
+	frequencies []float32
+	locations   [][]int32
+}

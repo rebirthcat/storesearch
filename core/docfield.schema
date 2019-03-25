@@ -1,0 +1,6 @@
+struct DocField{
+	DocTokenLen float32
+	GeoHash    string
+	Lat       float64
+	Lng       float64
+}
