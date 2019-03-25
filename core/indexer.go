@@ -20,17 +20,17 @@ Package core is riot core
 package core
 
 import (
-	"storesearch/distscore"
-	"storesearch/geofilter"
-	"storesearch/store"
+	"github.com/rebirthcat/storesearch/distscore"
+	"github.com/rebirthcat/storesearch/geofilter"
+	"github.com/rebirthcat/storesearch/store"
 	"log"
 	"math"
 	"sort"
 	"sync"
 	"time"
 
-	"storesearch/types"
-	"storesearch/utils"
+	"github.com/rebirthcat/storesearch/types"
+	"github.com/rebirthcat/storesearch/utils"
 )
 
 

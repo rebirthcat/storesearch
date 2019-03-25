@@ -16,8 +16,8 @@
 package types
 
 import (
-	"storesearch/distscore"
-	"storesearch/geofilter"
+	"github.com/rebirthcat/storesearch/distscore"
+	"github.com/rebirthcat/storesearch/geofilter"
 )
 
 // SearchReq search request options

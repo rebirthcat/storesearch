@@ -16,9 +16,9 @@
 package storesearch
 
 import (
-	"storesearch/distscore"
-	"storesearch/geofilter"
-	"storesearch/types"
+	"github.com/rebirthcat/storesearch/distscore"
+	"github.com/rebirthcat/storesearch/geofilter"
+	"github.com/rebirthcat/storesearch/types"
 
 )
 

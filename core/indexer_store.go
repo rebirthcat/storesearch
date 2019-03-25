@@ -1,7 +1,7 @@
 package core
 
 import (
-	"storesearch/store"
+	"github.com/rebirthcat/storesearch/store"
 	"log"
 	"sync"
 )

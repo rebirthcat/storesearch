@@ -30,8 +30,8 @@ import (
 
 	"github.com/go-ego/gse"
 	"github.com/go-ego/murmur"
-	"storesearch/core"
-	"storesearch/types"
+	"github.com/rebirthcat/storesearch/core"
+	"github.com/rebirthcat/storesearch/types"
 )
 
 const (

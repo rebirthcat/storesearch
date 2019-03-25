@@ -21,7 +21,7 @@ import (
 	"strings"
 
 	"github.com/go-ego/gpy"
-	"storesearch/types"
+	"github.com/rebirthcat/storesearch/types"
 )
 
 // TMap defines the tokens map type map[string][]int
